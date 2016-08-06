@@ -1,0 +1,33 @@
+_repo: The-Constitution-of-the-United-StatesA-Brief-Study-of-the-Genesis-Formulation-and-Political-P__10065
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beck, James M. (James Montgomery)
+    alias: Beck, James Montgomery
+    birthdate: 1861
+    deathdate: 1936
+    gutenberg_agent_id: '3290'
+    url: http://www.gutenberg.org/2009/agents/3290
+    wikipedia: http://en.wikipedia.org/wiki/James_M._Beck
+description: ''
+gutenberg_bookshelf:
+- United States
+- United States Law
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10065'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Constitution'
+- !lcsh 'Constitutional law -- United States'
+- !lcc 'KF'
+- !lcc 'JK'
+- GITenberg
+title: 'The Constitution of the United States
+
+  A Brief Study of the Genesis, Formulation and Political Philosophy of the Constitution'
+url: http://www.gutenberg.org/ebooks/10065
